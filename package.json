@@ -1,0 +1,16 @@
+{
+  "name": "select-line",
+  "main": "./lib/select-line",
+  "version": "0.1.0",
+  "description": "Select a line by clicking the line number.",
+  "activationEvents": [
+    "mouseup",
+  ],
+  "repository": "https://github.com/MitchelSBlake/select-line",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.80.0"
+  },
+  "dependencies": {
+  },
+}
