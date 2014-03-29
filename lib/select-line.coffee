@@ -4,7 +4,7 @@ module.exports =
 
   selectLine: ->
     @editor = atom.workspace.getActiveEditor()
-    @cursor = @editor.getCursors()[0]
+    @cursor = @editor.getCursor()
 
     if (@cursor.getBufferColumn() == 0 && @cursor.isVisible())
       if (@cursor.getCurrentBufferLine().length != 0)
