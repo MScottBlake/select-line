@@ -7,7 +7,7 @@
   "repository": "https://github.com/MitchelSBlake/select-line",
   "license": "MIT",
   "engines": {
-    "atom": ">0.80.0"
+    "atom": ">=0.80.0"
   },
   "dependencies": {}
 }
