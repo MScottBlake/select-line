@@ -1,7 +1,7 @@
 {
   "name": "select-line",
   "main": "./lib/select-line",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "description": "Select a line by clicking the line number.",
   "activationEvents": "mouseup",
   "repository": "https://github.com/MitchelSBlake/select-line",
