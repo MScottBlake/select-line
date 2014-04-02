@@ -3,7 +3,7 @@
   "main": "./lib/select-line",
   "version": "0.15.0",
   "description": "Select a line by clicking the line number.",
-  "activationEvents": "mouseup",
+  "activationEvents": "click",
   "repository": "https://github.com/MitchelSBlake/select-line",
   "license": "MIT",
   "engines": {
